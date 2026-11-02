@@ -1,0 +1,6 @@
+{
+  "name": "Avignon USA — iPhone Edition",
+  "description": "World-class premium e-commerce iPhone application for Avignon USA menswear with cinematic onboarding, curated catalog, bag & multi-step checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
